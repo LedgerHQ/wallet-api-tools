@@ -10,7 +10,7 @@ import React, {
 import CodeMirror, { ReactCodeMirrorRef } from "@uiw/react-codemirror";
 import { json } from "@codemirror/lang-json";
 import { Input } from "./Input";
-import { Transport, WindowMessageTransport } from "@ledgerhq/wallet-api-client";
+import { Transport, WindowMessageTransport } from "@ledgerhq/wallet-api-core";
 import { v4 as uuidv4 } from "uuid";
 import { z } from "zod";
 import {

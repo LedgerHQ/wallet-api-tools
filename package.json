@@ -11,9 +11,8 @@
   },
   "dependencies": {
     "@codemirror/lang-json": "^6.0.1",
-    "@ledgerhq/wallet-api-client": "workspace:*",
-    "@ledgerhq/wallet-api-core": "workspace:*",
-    "@ledgerhq/wallet-api-simulator": "workspace:*",
+    "@ledgerhq/wallet-api-core": "^0.11.0",
+    "@ledgerhq/wallet-api-simulator": "^0.9.1",
     "@next/font": "13.1.1",
     "@radix-ui/react-dropdown-menu": "^2.0.1",
     "@radix-ui/react-icons": "^1.1.1",
